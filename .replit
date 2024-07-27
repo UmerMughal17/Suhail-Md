@@ -7,7 +7,7 @@ hidden = [".config"]
 
 
 [unitTest]
-language = "nodejs"
+language = "English"
 
 onBoot = "npm i || yarn"
 
